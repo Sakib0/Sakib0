@@ -5,7 +5,7 @@
 ---
 
 ###  About Me  
-I’m a **Business Analyst** with 3+ years of experience in the **banking sector**, currently transitioning into **Data Science**.  
+I’m a **Business Analyst** with 4 years of experience in the **banking sector**, currently transitioning into **Data Science**.  
 I specialize in developing **AI-driven fintech solutions** — from fraud detection models and predictive analytics to **LLM-powered chatbots** using LangChain.  
 My passion lies in building scalable **real-time ML pipelines** and **Generative AI applications** that make financial systems smarter and more efficient.  
 
